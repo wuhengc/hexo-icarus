@@ -1,0 +1,7 @@
+admin:
+    qiniuCfg:
+        imageslim: true
+        AccessKey: 'AOH_7Xrl5GBot2oT7vm0uMgm6aSDlA9xy9URrg2S'
+        SecretKey: '_6znRQS5kQrmv9goIIKzcnrcYgXJ5-MEaH7TDjI2'
+        BucketName: 'whsoftinc'
+        bucketHost: 'oss.whsoftinc.com'   
